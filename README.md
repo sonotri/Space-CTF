@@ -1,1 +1,1 @@
-# 6-Space-CTF-
+# CTF
